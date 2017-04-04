@@ -1,0 +1,12 @@
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\bin\Debug\Farmasis.exe.config
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\bin\Debug\Farmasis.exe
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\bin\Debug\Farmasis.pdb
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\bin\Debug\MetroFramework.Design.dll
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\bin\Debug\MetroFramework.dll
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\bin\Debug\MetroFramework.Fonts.dll
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\obj\Debug\Farmasis.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\obj\Debug\Farmasis.Form1.resources
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\obj\Debug\Farmasis.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\obj\Debug\Farmasis.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\obj\Debug\Farmasis.exe
+c:\users\cesar\documents\visual studio 2017\Projects\Farmasis\Farmasis\obj\Debug\Farmasis.pdb
